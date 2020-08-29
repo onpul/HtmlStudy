@@ -1,0 +1,30 @@
+/**기본 스타일 설정**/
+.banner {/**배너(로고) 설정**/
+  text-align: center;
+}
+body {/**배경 색 설정**/
+  background-color: lightyellow;
+}
+p {/**p문단 기본 설정**/
+  font-size: 10px;
+  font-family: 바탕;
+}
+#container {
+  width: 600px;
+  padding: 15px;
+  border: 1px solid gray;
+}
+
+/**개별 스타일 설정**/
+.category {/**카테고리 스타일 클래스**/
+  font-size: 12px;
+}
+.f10 {/**폰트 사이즈10**/
+  font-size: 10px;
+}
+.f12 {/**폰트 사이즈12**/
+  font-size: 12px;
+}
+.tac {/**텍스트 가운데 정렬**/
+  text-align: center;
+}
